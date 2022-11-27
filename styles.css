@@ -1,0 +1,39 @@
+table, tr, td {
+    border: 1px dotted black;
+    margin-left:auto;margin-right:auto
+    
+}
+td { text-align: center;}
+p { text-indent: 25px;}
+th {
+    text-decoration: none;
+}
+.crew {
+    color: red;    
+}
+.Strawhat {
+    font-size: 30px;
+    color:darkcyan;
+}
+#body {
+    background-color: lightblue;
+}
+#home {
+    font-size: 50px;
+}
+#gallery {
+    font-size: 35px;
+    color:goldenrod; 
+}
+.faces {
+    background-color: aquamarine;
+}
+#top {
+    background-color: lightseagreen;
+}
+#navi {
+    background-color: aquamarine;
+}
+#pose {
+    background-color: aquamarine;
+}
